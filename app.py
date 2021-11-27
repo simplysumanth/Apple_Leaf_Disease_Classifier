@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from fastai.vision.all import *
 
-import base64
 
 from sklearn.metrics import roc_auc_score
 
