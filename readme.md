@@ -3,6 +3,10 @@
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/simplysumanth/apple_leaf_disease_classifier/main/app.py) 
 Dataset: <a href = "https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data"> Plant Pathology dataset </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Built using : &nbsp; ![image](https://user-images.githubusercontent.com/26655188/143618035-3efecc7a-92e5-4548-a566-94de785454c3.png) &nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/26655188/143617981-be944849-80e3-4440-93c7-1df0e5dc2cae.png)
 
+## Demo:
+![apple leaf app demo](https://user-images.githubusercontent.com/26655188/143721170-0c9e5918-08e6-4b7e-ba29-663693f55aab.gif)
+
+
 ## Project Aim:
 Given a photo of an apple leaf, accurately assess its health. The aim is to distinguish between leaves which are healthy, those which are infected with apple rust, those that have apple scab, and those with more than one disease(combinations).
 
